@@ -1,7 +1,26 @@
 # CECS450-project
-Visualizing the Impact of Food Deserts on Communities
-Project Title
-Visualizing the Impact of Food Deserts on Communities
+# CO2 Emissions Visualization Project
 
-Description
-This repository houses a data visualization project focusing on the critical issue of food deserts. Food deserts are defined as areas with limited access to affordable and nutritious food, which have detrimental effects on the health and well-being of the communities residing within them. The primary goal of this project is to visually represent the extent of food deserts and illuminate their impacts on various communities.
+## Project Overview
+
+This project aims to visualize the global CO2 emissions data to provide insights into trends, patterns, and impacts of human activities on climate change. Using interactive data visualization techniques, we aim to present a comprehensive view of CO2 emissions over time, segmented by country, industry, and other relevant factors.
+
+## Team Members
+
+- Duy Mai 
+- Hoang-Uyen Tran 
+- Twan Tran
+
+## Data Sources
+
+Our visualization is based on data from the following sources:
+
+- **Global Carbon Atlas**: Provides CO2 emissions data by country and industry.
+- **Our World in Data**: Offers a wide range of environmental data including CO2 emissions.
+- **World Bank Open Data**: Features historical data on CO2 emissions and environmental indicators.
+
+## Tools and Technologies
+
+- **Python**: For data cleaning, manipulation, and analysis (libraries: pandas, NumPy).
+
+
