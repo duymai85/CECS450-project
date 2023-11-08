@@ -1,17 +1,17 @@
 # CECS450-project
-# CO2 Emissions Visualization Project
+## CO2 Emissions Visualization Project
 
-## Project Overview
+### Project Overview
 
 This project aims to visualize the global CO2 emissions data to provide insights into trends, patterns, and impacts of human activities on climate change. Using interactive data visualization techniques, we aim to present a comprehensive view of CO2 emissions over time, segmented by country, industry, and other relevant factors.
 
-## Team Members
+### Team Members
 
 - Duy Mai 
 - Hoang-Uyen Tran 
 - Twan Tran
 
-## Data Sources
+### Data Sources
 
 Our visualization is based on data from the following sources:
 
@@ -19,7 +19,7 @@ Our visualization is based on data from the following sources:
 - **Our World in Data**: Offers a wide range of environmental data including CO2 emissions.
 - **World Bank Open Data**: Features historical data on CO2 emissions and environmental indicators.
 
-## Tools and Technologies
+### Tools and Technologies
 
 - **Python**: For data cleaning, manipulation, and analysis (libraries: pandas, NumPy).
 
