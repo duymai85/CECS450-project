@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project aims to visualize the global CO2 emissions data to provide insights into trends, patterns, and impacts of human activities on climate change. Using interactive data visualization techniques, we aim to present a comprehensive view of CO2 emissions over time, segmented by country, industry, and other relevant factors.
+This project centers on visualizing the expansive realm of climate change, encompassing various facets, including CO2 emissions as a pivotal component. Our goal is to reveal the intricate tapestry of climate dynamics by incorporating visualizations not only of global CO2 emissions but also of the broader spectrum of environmental alterations. This encompasses shifts in temperature anomalies, changes in weather patterns such as droughts, storms, sea-level fluctuations, and alterations in crop yields. Through interactive visual techniques, our endeavor is to illuminate the interconnectedness of these factors, offering a comprehensive portrayal of the evolving landscape of climate change.
 
 ### Team Members
 
