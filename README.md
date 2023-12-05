@@ -24,6 +24,6 @@ Our visualization is based on data from the following sources:
   
 ### Tools and Technologies
 
-- **Python**: For data cleaning, manipulation, and analysis (libraries: pandas, NumPy).
+- **Python**: For data cleaning, manipulation, and analysis (libraries: pandas, NumPy, matplotlib, plotly, seaborn).
 
 
